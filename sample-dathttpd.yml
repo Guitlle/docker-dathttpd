@@ -3,9 +3,6 @@ dathttpdports:
   https: 443
   metric: 8089
 directory: ~/.dathttpd
-letsencrypt:
-  email: 'a@b.com'
-  agreeTos: true
 sites:
   example.com:
     url: dat://534fa5db12b8ea8c0d1a51a31702797b37cea60ee4dee10ec35b59bfb284e4d4
